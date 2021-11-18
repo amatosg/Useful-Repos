@@ -6,6 +6,9 @@ This script takes care of all that is needed to have a functioning Arch Linux in
 ## [Useful Sed](https://github.com/adrianscheff/useful-sed)
 Useful sed tips, techniques and tricks for daily usage.
 
+## [Modern Unix](https://github.com/ibraheemdev/modern-unix)
+A collection of modern/faster/saner alternatives to common unix commands.
+
 # Useful Articles
 
 ## [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
